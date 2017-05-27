@@ -1,4 +1,4 @@
-> 项目描述
+> ftp辅助工具
 
 ![my love](./logo.png) 
 

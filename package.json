@@ -33,7 +33,7 @@
     },
     "keywords": ["typescript", "ftp-helper2"],
     "author": "hubiqing",
-    "repository": "https://github.com/githbq/hbq-ftp-helper.git#readme",
+    "repository": "https://github.com/githbq/hbq-ftp-helper.git",
     "engines": {"node": ">=7.6"},
     "license": "MIT"
 }
